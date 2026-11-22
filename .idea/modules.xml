@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HellowORLD/HelloWorld.iml" filepath="$PROJECT_DIR$/HellowORLD/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISPPrinciple/ISPPrinciple.iml" filepath="$PROJECT_DIR$/ISPPrinciple/ISPPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/LSPPrinciple/LSPPrinciple.iml" filepath="$PROJECT_DIR$/LSPPrinciple/LSPPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/OCPPrinciple/OCPPrinciple.iml" filepath="$PROJECT_DIR$/OCPPrinciple/OCPPrinciple.iml" />
