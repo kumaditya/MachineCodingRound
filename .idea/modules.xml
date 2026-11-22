@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIPPrinciple/DIPPrinciple.iml" filepath="$PROJECT_DIR$/DIPPrinciple/DIPPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/HellowORLD/HelloWorld.iml" filepath="$PROJECT_DIR$/HellowORLD/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/ISPPrinciple/ISPPrinciple.iml" filepath="$PROJECT_DIR$/ISPPrinciple/ISPPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
